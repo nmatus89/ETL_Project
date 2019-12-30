@@ -50,8 +50,3 @@ At the end of the week, your team will submit a Final Report that describes the 
 
 Please upload the report to Github and submit a link to Bootcampspot.
 
-- - -
-
-### Copyright
-
-Coding Boot Camp © 2019. All Rights Reserved.
